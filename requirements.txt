@@ -14,7 +14,6 @@ langchain-core==0.2.22
 langchain-community==0.2.9  
 langchain-text-splitters==0.2.2
 streamlit-extras==0.4.3
-python-dotenv
-PyPDF2
-text
-faiss-cpu
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+faiss-cpu==1.7.3
