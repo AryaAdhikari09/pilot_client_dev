@@ -1,7 +1,7 @@
 import streamlit as st
 import PyPDF2
 import random
-import faiss
+# import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from MCQ import get_all_topics_from_pdf, get_questions_from_topics_custom, weak_topics_from_answers, get_overview_of_topic_using_interest, just_get_text_from_pdf
