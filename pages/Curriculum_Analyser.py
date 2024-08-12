@@ -1,6 +1,6 @@
 import streamlit as st
 import PyPDF2
-# import faiss
+import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import random

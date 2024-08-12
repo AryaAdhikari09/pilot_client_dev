@@ -3,7 +3,7 @@ from streamlit_extras.switch_page_button import switch_page
 import streamlit as st
 import asyncio
 import aiohttp
-# import faiss
+import faiss
 import numpy as np
 from bs4 import BeautifulSoup
 from sentence_transformers import SentenceTransformer

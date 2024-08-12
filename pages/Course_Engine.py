@@ -6,7 +6,7 @@ import os
 import re
 import time
 import requests
-# import faiss
+import faiss
 import numpy as np
 import streamlit as st
 import google.generativeai as genai
